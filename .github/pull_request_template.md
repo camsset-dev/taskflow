@@ -1,11 +1,11 @@
 ## ¿Qué cambia?
-<!-- Describe el cambio en 13 líneas -->
+<!-- Describe el cambio en 1 a 3 líneas -->
 
 ## ¿Por qué?
 <!-- Problema que resuelve o historia de usuario (desde la Clase 3: clave de Jira, ej. TF-8) -->
 
 ## ¿Cómo probarlo?
-1. python -m pytest -v
+1. `python -m pytest -v`
 2.
 
 ## Checklist
